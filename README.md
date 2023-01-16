@@ -7,7 +7,7 @@ To get started and run the app:
 - Clone the project.
 - Run `npm install` to install the corresponding node packages.
 - For Frontend:
-    - Run `npm start` to run the app on http://localhost:5000
+    - Run `npm start` to run the app on http://localhost:3000
 - For Backend:
     - Run `npm run dev` to start the server
     
