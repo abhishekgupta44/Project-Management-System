@@ -1,6 +1,8 @@
 # Project Management System
 ### This is a simple Project Management System Application using GraphQL and Apollo Client, as well as ReactJS, ExpressJS , MongoDB etc. 
 
+***
+
 To get started and run the app:
 - Clone the project.
 - Run `npm install` to install the corresponding node packages.
@@ -8,6 +10,8 @@ To get started and run the app:
     - Run `npm start` to run the app on http://localhost:5000
 - For Backend:
     - Run `npm run dev` to start the server
+    
+ ***
     
     
     Features of the application:
@@ -18,6 +22,7 @@ To get started and run the app:
  - Delete Clients
  - Delete projects
  
+ ***
  
  ### ScreenShots
  
